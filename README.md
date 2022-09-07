@@ -8,6 +8,12 @@ Front End Capstone is an e-commerce site built with React and Express, following
 
 <img src='Overview.gif' align="center"/>
 &nbsp;
+<img src='StyleSelector.gif' align="center"/>
+&nbsp;
+<img src='AddToBag.gif' align="center"/>
+&nbsp;
+<img src='ShareOnSocialMedia.gif' align="center"/>
+&nbsp;
 
 ## Tech Stack
 
